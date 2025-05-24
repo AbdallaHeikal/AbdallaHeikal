@@ -18,7 +18,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 <a href="https://www.instagram.com/abdalla_heikal_112/"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="instagram"></a>
-<a href="https://www.twitter.com/c/abdallaheikal97"><img
+<a href="https://www.twitter.com/abdallaheikal97"><img
     src="https://img.shields.io/badge/-twitter-0e7fe9?style=flat&logo=twitter&logoColor=white" alt="twitter"></a>
 </p>
 
