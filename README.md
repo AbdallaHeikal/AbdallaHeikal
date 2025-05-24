@@ -13,12 +13,12 @@ I'm a software developer with a strong passion for creating visually appealing a
   
 - 📫 Social links
 <p>
-<a href="https://www.facebook.com/abdallaheikal112/"><img
+<a href="https://www.facebook.com/abdallaheikal112/" target="_blank"><img
     src="https://img.shields.io/badge/-Facebook-3b5998?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/abdalla_heikal_112/"><img
+<a href="https://www.instagram.com/abdalla_heikal_112/" target="_blank"><img
     src="https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white"
     alt="instagram"></a>
-<a href="https://www.twitter.com/abdallaheikal97"><img
+target="_blank"<a href="https://www.twitter.com/abdallaheikal97" ><img
     src="https://img.shields.io/badge/-twitter-0e7fe9?style=flat&logo=twitter&logoColor=white" alt="twitter"></a>
 </p>
 
